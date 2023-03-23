@@ -1,4 +1,9 @@
 #include "main.h"
+/**
+ * print_triangle - print triangle
+ *@size: space of triangle
+ * Return: 0
+ **/
 void print_triangle(int size)
 {
 if (size <= 0)
