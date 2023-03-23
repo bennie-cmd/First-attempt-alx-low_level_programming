@@ -1,10 +1,16 @@
 #include "main.h"
+/**
+ *print_diagonal -prints the input in a digonal
+ *@n:variable declared
+ *Return 0
+ */
 void print_diagonal(int n)
 {
 if (n <= 0)
 {
 _putchar('\n');
-} else
+}
+else
 {
 int i, j;
 for (i = 0; i < n; i++)
@@ -13,11 +19,12 @@ for (j = 0; j < n; j++)
 {
 if (j == i)
 {
-_putchar('\');
+_putchar('\\');
 }
 else if (j < i)
 {
 _putchar(' ');
+}
 }
 _putchar('\n');
 }
