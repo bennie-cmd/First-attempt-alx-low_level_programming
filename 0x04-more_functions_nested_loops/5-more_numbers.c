@@ -1,4 +1,8 @@
 #include "main.h"
+/**
+ *more_numbers - checks more numbers
+ *Return 0
+ **/
 void more_numbers(void)
 {
 int i, j;
