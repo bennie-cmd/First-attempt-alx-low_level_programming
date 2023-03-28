@@ -1,11 +1,10 @@
-#include "main"
-#include <stdio.h>
+#include "main.h"
 /**
-*int_strlen - a finction that takes a parameter char multiplies by s
-*@s: a variable declared
+*_strlen - returns the length of a string
+*@s: string
+*Return: length
 */
-
-int_strlen(char *s)
+int _strlen(char *s)
 {
 int longi = 0;
 while (*s != '\0')
