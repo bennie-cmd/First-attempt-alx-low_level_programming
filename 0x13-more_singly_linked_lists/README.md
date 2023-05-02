@@ -1,0 +1,5 @@
+README FILE
+
+-HOW TO USE THE LINKED LIST
+-START TO LOOK FOR THE RIGHT SOURCE OF INFORMATION WITHOUT TOO MUCH HELP
+*The use of linked lists and below are the tasks completed.
